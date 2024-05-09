@@ -1,4 +1,5 @@
 # Restaurant Recommendation System
+![image](https://github.com/yashvisharma1204/Restaurant-Recommendation-System-using-OpenAI-API/assets/137611141/7aa88b72-29df-4ac8-b59e-c035a5026f78)
 
 This project demonstrates how to extract structured information from unstructured text data and generate restaurant suggestions using OpenAI's GPT-3.5 Turbo API. It combines text processing, data extraction, and AI-based suggestions to create a personalized restaurant recommendation system.
 
